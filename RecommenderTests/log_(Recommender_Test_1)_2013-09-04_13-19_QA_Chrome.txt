@@ -1,0 +1,5 @@
+Universe autotest v.0.2 Proudly Presents
+
+Autotest Results on 2013-09-04_13-19 in QA using Chrome
+
+No Redirection to Recommender after Signin Up

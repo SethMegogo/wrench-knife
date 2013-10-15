@@ -1,0 +1,4 @@
+A beautiful txt log could be here. But instead...
+
+
+Test completed with 0 error(s)

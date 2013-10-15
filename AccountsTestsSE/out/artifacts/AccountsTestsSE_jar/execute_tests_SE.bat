@@ -1,0 +1,1 @@
+java -cp AccountsTestsSE.jar com.me.webdriver.AccountsTestSE

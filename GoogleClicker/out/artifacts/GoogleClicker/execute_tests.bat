@@ -1,0 +1,1 @@
+java -cp GoogleClicker.jar com.googleclicker.webdriver.GoogleClicker
